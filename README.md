@@ -251,7 +251,6 @@ Total project cost (including deployment, testing, and documentation): Less than
 - **Remote Access:** Windows Remote Desktop Protocol (RDP)
 - **Testing:** PowerShell (Test-NetConnection)
 
-## Project Structure
 
 ```
 
