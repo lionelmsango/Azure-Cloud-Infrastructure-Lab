@@ -252,10 +252,7 @@ Total project cost (including deployment, testing, and documentation): Less than
 - **Testing:** PowerShell (Test-NetConnection)
 
 
-```
-
-
-## Key Takeaways
+## Key takeaways
 
 1. **Network Security First:** The NSG configuration demonstrates defense-in-depth by restricting access to only necessary protocols and source IPs.
 
