@@ -294,4 +294,4 @@ Azure-Cloud-Infrastructure-Lab/
 
 ---
 
-**Note:** This infrastructure was deployed for learning and demonstration purposes. The infrastructure follows Azure Well-Architected Framework principles for security, reliability, and cost optimization.All resources were properly deallocated after documentation to minimize costs. Total project cost: <€1.
+**Note:** This infrastructure was deployed for learning and demonstration purposes. The infrastructure follows Azure Well-Architected Framework principles for security, reliability, and cost optimization.All resources were properly deallocated after documentation to minimize costs. 
