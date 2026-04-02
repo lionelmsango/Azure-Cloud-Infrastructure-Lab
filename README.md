@@ -2,7 +2,7 @@
 
 Production-ready IaaS deployment demonstrating cloud infrastructure design, network segmentation, backup strategy, and cost management on Microsoft Azure.
 
-![Network Topology](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab/blob/667c875b1a14da5933d27d4e7f32ce19c2e490af/network-topology.svg.svg)
+![Network Topology](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab/blob/f5ad190cb3273237496a045cb141db8e9d55c9a5/Screenshots/16_Topology_SVG_Downloaded.png.jpg)
 
 ## Project Overview
 
