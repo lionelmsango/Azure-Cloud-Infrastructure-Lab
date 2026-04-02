@@ -97,7 +97,7 @@ Total project cost (including deployment, testing, and documentation): Less than
 <table>
   <tr>
     <td width="50%">
-      <img src="screenshots/01_Resource_Group_Created_png.jpg" alt="Resource Group" />
+      <img src="Screenshots/01_Resource_Group_Created_png.jpg" alt="Resource Group" />
       <p align="center"><em>Resource group organization</em></p>
     </td>
     <td width="50%">
