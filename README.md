@@ -254,30 +254,7 @@ Total project cost (including deployment, testing, and documentation): Less than
 ## Project Structure
 
 ```
-Azure-Cloud-Infrastructure-Lab/
-│
-├── README.md                          # Project documentation
-├── network-topology.svg               # Network architecture diagram
-│
-└── screenshots/                       # Visual documentation
-    ├── 01_Resource_Group_Created_png.jpg
-    ├── 02_Virtual_Network_Created_png.jpg
-    ├── 03_NSG_With_RDP_Rule_png.jpg
-    ├── 04_VM_Deployment_Complete_png.jpg
-    ├── 05_VM_Overview_Running_png.jpg
-    ├── 06_RDP_Connected_To_VM_png.jpg
-    ├── 07_Storage_Account_Created_png.jpg
-    ├── 08_Blob_Container_Created_png.jpg
-    ├── 09_Blob_File_Uploaded_png.jpg
-    ├── 10_Recovery_Vault_Created_png.jpg
-    ├── 11_VM_Backup_Configured_png.jpg
-    ├── 12_Backup_Job_In_Progress_png.jpg
-    ├── 13_Cost_Analysis_View_png.jpg
-    ├── 14_Budget_Alert_Configured_png.jpg
-    ├── 15_Network_Topology_Diagram_png.jpg
-    ├── 16_Topology_SVG_Downloaded_png.jpg
-    └── 17_Storage_Connection_Test_png.jpg
-```
+
 
 ## Key Takeaways
 
