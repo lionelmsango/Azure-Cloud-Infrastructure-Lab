@@ -97,21 +97,21 @@ Total project cost (including deployment, testing, and documentation): Less than
 <table>
   <tr>
     <td width="50%">
-      <img src="Screenshots/01_Resource_Group_Created_png.jpg" alt="Resource Group" />
+      <img src="Screenshots/01_Resource_Group_Created.png.jpg" alt="Resource Group" />
       <p align="center"><em>Resource group organization</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/02_Virtual_Network_Created_png.jpg" alt="Virtual Network" />
+      <img src="Screenshots/02_Virtual_Network_Created.png.jpg" alt="Virtual Network" />
       <p align="center"><em>VNet with segmented subnet</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="Screenshots/03_NSG_With_RDP_Rule_png.jpg" alt="NSG Rules" />
+      <img src="Screenshots/03_NSG_With_RDP_Rule.png.jpg" alt="NSG Rules" />
       <p align="center"><em>Firewall rules (NSG)</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/04_VM_Deployment_Complete_png.jpg" alt="VM Deployment" />
+      <img src="Screenshots/04_VM_Deployment_Complete.png.jpg" alt="VM Deployment" />
       <p align="center"><em>Successful VM deployment</em></p>
     </td>
   </tr>
@@ -122,11 +122,11 @@ Total project cost (including deployment, testing, and documentation): Less than
 <table>
   <tr>
     <td width="50%">
-      <img src="Screenshots/05_VM_Overview_Running_png.jpg" alt="VM Running" />
+      <img src="Screenshots/05_VM_Overview_Running.png.jpg" alt="VM Running" />
       <p align="center"><em>VM running (B2s configuration)</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/06_RDP_Connected_To_VM_png.jpg" alt="RDP Connection" />
+      <img src="Screenshots/06_RDP_Connected_To_VM.png.jpg" alt="RDP Connection" />
       <p align="center"><em>Remote desktop access verified</em></p>
     </td>
   </tr>
@@ -137,21 +137,21 @@ Total project cost (including deployment, testing, and documentation): Less than
 <table>
   <tr>
     <td width="50%">
-      <img src="Screenshots/07_Storage_Account_Created_png.jpg" alt="Storage Account" />
+      <img src="Screenshots/07_Storage_Account_Created.png.jpg" alt="Storage Account" />
       <p align="center"><em>LRS storage account</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/08_Blob_Container_Created_png.jpg" alt="Blob Container" />
+      <img src="Screenshots/08_Blob_Container_Created.png.jpg" alt="Blob Container" />
       <p align="center"><em>Application data container</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="Screenshots/09_Blob_File_Uploaded_png.jpg" alt="File Upload" />
+      <img src="Screenshots/09_Blob_File_Uploaded.png.jpg" alt="File Upload" />
       <p align="center"><em>Test file uploaded to blob storage</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/10_Recovery_Vault_Created_png.jpg" alt="Recovery Vault" />
+      <img src="Screenshots/10_Recovery_Vault_Created.png.jpg" alt="Recovery Vault" />
       <p align="center"><em>Backup vault configured</em></p>
     </td>
   </tr>
@@ -162,21 +162,21 @@ Total project cost (including deployment, testing, and documentation): Less than
 <table>
   <tr>
     <td width="50%">
-      <img src="Screenshots/11_VM_Backup_Configured_png.jpg" alt="Backup Config" />
+      <img src="Screenshots/11_VM_Backup_Configured.png.jpg" alt="Backup Config" />
       <p align="center"><em>VM backup policy applied</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/12_Backup_Job_In_Progress_png.jpg" alt="Backup Job" />
+      <img src="Screenshots/12_Backup_Job_In_Progress.png.jpg" alt="Backup Job" />
       <p align="center"><em>Initial backup job running</em></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="Screenshots/13_Cost_Analysis_View_png.jpg" alt="Cost Analysis" />
+      <img src="Screenshots/13_Cost_Analysis_View.png.jpg" alt="Cost Analysis" />
       <p align="center"><em>Cost tracking by resource group</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/14_Budget_Alert_Configured_png.jpg" alt="Budget Alerts" />
+      <img src="Screenshots/14_Budget_Alert_Configured.png.jpg" alt="Budget Alerts" />
       <p align="center"><em>Budget monitoring (50%/75%/90%)</em></p>
     </td>
   </tr>
@@ -187,11 +187,11 @@ Total project cost (including deployment, testing, and documentation): Less than
 <table>
   <tr>
     <td width="50%">
-      <img src="Screenshots/15_Network_Topology_Diagram_png.jpg" alt="Topology View" />
+      <img src="Screenshots/15_Network_Topology_Diagram.png.jpg" alt="Topology View" />
       <p align="center"><em>Azure Network Watcher topology</em></p>
     </td>
     <td width="50%">
-      <img src="Screenshots/17_Storage_Connection_Test_png.jpg" alt="Connectivity Test" />
+      <img src="Screenshots/17_Storage_Connection_Test.png.jpg" alt="Connectivity Test" />
       <p align="center"><em>PowerShell connectivity verification</em></p>
     </td>
   </tr>
