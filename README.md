@@ -6,7 +6,7 @@ Production-ready IaaS deployment demonstrating cloud infrastructure design, netw
 
 ## Project Overview
 
-This project implements a secure, scalable cloud infrastructure for a fictional German SME (CloudTech Solutions GmbH) migrating their application server to Azure. The infrastructure follows Azure best practices for network segmentation, security hardening, and disaster recovery.
+This project implements a secure, scalable cloud infrastructure for a fictional SME (LionelCloudTech Solutions GmbH) migrating their application server to Azure. The infrastructure follows Azure best practices for network segmentation, security hardening, and disaster recovery.
 
 **Scenario:** The company needs to deploy a Windows Server-based application in the cloud with proper network isolation, backup protection, and cost controls.
 
@@ -291,20 +291,7 @@ Azure-Cloud-Infrastructure-Lab/
 
 5. **Start Small, Plan Big:** The /16 address space with /24 subnets allows for future expansion without rearchitecting the foundation.
 
-## Related Projects
-
-- **[PowerShell IT Administration Automation](https://github.com/lionelmsango/PowerShell-IT-Admin-Automation)** - Active Directory user lifecycle management scripts
-- **Microsoft 365 Administration Lab** - Entra ID, Exchange, and SharePoint configuration
-- **SIEM Deployment (Wazuh)** - Security monitoring for Windows/Linux endpoints
-
-## About
-
-This project was developed as part of a comprehensive IT administration portfolio demonstrating cloud infrastructure skills for enterprise environments. The infrastructure follows Azure Well-Architected Framework principles for security, reliability, and cost optimization.
-
-**Author:** Lionel Sango  
-**Certification:** Microsoft Certified: Azure Fundamentals (AZ-900)  
-**LinkedIn:** [linkedin.com/in/lionel-sango-417681273](https://www.linkedin.com/in/lionel-sango-417681273/)
 
 ---
 
-**Note:** This infrastructure was deployed for learning and demonstration purposes. All resources were properly deallocated after documentation to minimize costs. Total project cost: <€1.
+**Note:** This infrastructure was deployed for learning and demonstration purposes. The infrastructure follows Azure Well-Architected Framework principles for security, reliability, and cost optimization.All resources were properly deallocated after documentation to minimize costs. Total project cost: <€1.
