@@ -5,6 +5,9 @@ Production-ready IaaS deployment demonstrating cloud infrastructure design, netw
 ![Network Topology](https://github.com/lionelmsango/Azure-Cloud-Infrastructure-Lab/blob/f5ad190cb3273237496a045cb141db8e9d55c9a5/Screenshots/16_Topology_SVG_Downloaded.png.jpg)
 *Network topology*
 
+## Kurzbeschreibung
+Dieses Projekt zeigt den Aufbau einer produktionsnahen Cloud-Infrastruktur auf Microsoft Azure für ein fiktives KMU. Ich habe ein Virtual Network (10.1.0.0/16) mit Subnetz-Segmentierung, eine Windows-Server-2022-VM, eine Network Security Group mit Least-Privilege-Zugriffsregeln sowie automatisierte Backups mit 30-tägiger Aufbewahrung konfiguriert. Durch eine VM-Deallocation-Strategie wurden die Betriebskosten um ca. 95 % gesenkt — ein Ansatz, der direkt auf reale KMU-Anforderungen übertragbar ist.
+
 ## Project Overview
 
 This project implements a secure, scalable cloud infrastructure for a fictional SME (LionelCloudTech Solutions GmbH) migrating their application server to Azure. The infrastructure follows Azure best practices for network segmentation, security hardening, and disaster recovery.
